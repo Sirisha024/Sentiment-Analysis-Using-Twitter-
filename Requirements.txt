@@ -1,0 +1,12 @@
+Requirements:
+
+The project requires the following Python libraries:
+
+NumPy
+pandas
+Matplotlib
+NLTK
+scikit-learn
+WordCloud
+
+Use the package manager pip to install the required libraries.
